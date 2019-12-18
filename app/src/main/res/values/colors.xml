@@ -3,6 +3,7 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="blue">#33b5e5</color>
     <color name="ic_back_press">#323336</color>
     <color name="ip_color_primary">#393A3F</color>
     <color name="ip_color_primary_dark">#303135</color>
